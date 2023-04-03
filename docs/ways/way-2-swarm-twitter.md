@@ -53,6 +53,10 @@ Accompanying text promo text + our account tag (ethswarm/fds) + reference with m
 
 It can be encrypted so that only we can decrypt it, for example. The address can be used to send tokens or check if a person has uploaded something to Fairdrive. It can be hashed, but then it will not be possible to send tokens or verify downloads.
 
+**Is it possible to use other social networks?**
+
+Yes, it's possible. One of the candidates is Telegram, as there is a large audience familiar with crypto-technologies. The viral mechanism for each social network must be built separately.
+
 **What resources are needed?**
 
 * Updating Fairdrive to a stable state so that there are no UI shortcomings.

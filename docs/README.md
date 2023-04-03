@@ -6,7 +6,7 @@ Pros: convenient user experience
 
 Cons: long collection of results of the referral system, an attacker can spam the system
 
-## [Way 2 - Swarm + Twitter and other web services like Telegram](/docs/way-2-swarm-twitter.md)
+## [Way 2 - Swarm + Twitter and other web services like Telegram](/docs/ways/way-2-swarm-twitter.md)
 
 Pros: convenient user experience, virality, small amount of spam, confirmation of a real person
 
